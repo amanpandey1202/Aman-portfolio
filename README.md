@@ -6,7 +6,7 @@ A modern, responsive portfolio built to showcase my skills, projects, and intere
 
 ## Preview
 
-![Portfolio Home Screenshot](./public/portfolio-home.png)
+<img width="635" height="356" alt="Screenshot 2026-07-20 100417" src="https://github.com/user-attachments/assets/e522b562-d4b9-46db-ae38-4eb38e0bbe6e" />
 
 ## Tech Stack
 
