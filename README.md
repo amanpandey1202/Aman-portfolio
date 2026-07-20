@@ -1,97 +1,51 @@
-# 🚀 Aman Pandey — Developer Portfolio
+# Aman Pandey — Developer Portfolio
 
-Welcome to my personal developer portfolio.
+A modern, responsive portfolio built to showcase my skills, projects, and interests in **Web Development, AI, and IoT**.
 
-This website showcases my journey as a BCA student, my technical skills, projects, interests, and experience in building modern web applications, AI-powered solutions, and IoT systems.
+🌐 **Live Site:** [https://amanpandey1202.vercel.app](https://amanpandey1202.vercel.app)
 
-## 🌐 Live Portfolio
+## Preview
 
-**[Visit My Portfolio](amanpandey1202.vercel.app)**
+![Portfolio Home Screenshot](./public/portfolio-home.png)
 
-## ✨ Features
+## Tech Stack
 
-* Modern and responsive portfolio design
-* About Me section
-* Technical skills showcase
-* Projects section
-* Developer profile
-* AI and IoT interests
-* Responsive design for different screen sizes
-* SEO-friendly metadata and social sharing support
+- React
+- Vite
+- JavaScript
+- Tailwind CSS
+- HTML5/CSS3
 
-## 🛠️ Tech Stack
+## Highlights
 
-* React
-* Vite
-* JavaScript
-* Tailwind CSS
-* HTML5
-* CSS3
+- Responsive and clean UI
+- Skills and projects showcase
+- SEO-friendly metadata
+- Focused on performance and usability
 
-## 🚀 Getting Started
-
-### Clone the repository
+## Run Locally
 
 ```bash
 git clone https://github.com/amanpandey1202/Aman-portfolio.git
-```
-
-### Navigate to the project
-
-```bash
 cd Aman-portfolio
-```
-
-### Install dependencies
-
-```bash
 npm install
-```
-
-### Start the development server
-
-```bash
 npm run dev
 ```
 
-The application will run locally at:
+## Build
 
-```text
-http://localhost:5173
+```bash
+npm run build
+npm run preview
 ```
 
-## 📁 Project Structure
+## Contact
 
-```text
-Aman-portfolio/
-├── public/
-├── src/
-│   ├── assets/
-│   ├── components/
-│   ├── App.jsx
-│   └── main.jsx
-├── index.html
-├── package.json
-└── vite.config.js
-```
-
-## 👨‍💻 About Me
-
-I'm Aman Pandey, a BCA student passionate about technology and software development.
-
-My interests include:
-
-* Full-Stack Development
-* Artificial Intelligence
-* IoT
-* Modern Web Technologies
-* Building practical technology solutions
-
-## 📬 Connect With Me
-
-* GitHub: https://github.com/amanpandey1202
-* Portfolio: YOUR_LIVE_WEBSITE_LINK
+- GitHub: [@amanpandey1202](https://github.com/amanpandey1202)
+- Portfolio: [amanpandey1202.vercel.app](https://amanpandey1202.vercel.app)
+- LinkedIn: [Aman Pandey](https://www.linkedin.com/in/aman-pandey-03b484383/)
+- Email: [AMANPANDEY8162@GMAIL.COM](mailto:AMANPANDEY8162@GMAIL.COM)
 
 ---
 
-⭐ If you like my portfolio, feel free to explore my other projects!
+If you like this project, feel free to star the repo ⭐
