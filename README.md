@@ -2,7 +2,7 @@
 
 A modern, responsive portfolio built to showcase my skills, projects, and interests in **Web Development, AI, and IoT**.
 
-🌐**[TAKE A LOOK AT MY PORTFOLIO]**(https://amanpandey1202.vercel.app)
+🌐[TAKE A LOOK AT MY PORTFOLIO](https://amanpandey1202.vercel.app)
 
 ## Preview
 
